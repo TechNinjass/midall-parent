@@ -1,0 +1,3 @@
+[submodule "midall-frontend"]
+	path = midall-frontend
+	url = https://github.com/TechNinjass/midall-frontend
