@@ -1,6 +1,3 @@
 [submodule "midall-frontend"]
 	path = midall-frontend
 	url = https://github.com/TechNinjass/midall-frontend
-[submodule "midall-backend"]
-	path = midall-backend
-	url = https://github.com/TechNinjass/midall-backend.git
