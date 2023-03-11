@@ -34,6 +34,27 @@
 
 <br>
 
+## :computer: Requisitos para instalação do projeto
+
+<details> 
+
+**Instalação:**
+
+- MidAll parent project including midall-backend and midall-frontend as submodules.
+
+```
+git clone --recurse-submodules https://github.com/TechNinjass/midall-parent.git
+```
+
+- To update submodules projects in ball-parent after having cloned the project (Replace "branch_name" with branch name)
+```
+git pull --recurse-submodules origin <branch_name>
+```
+
+</details>
+
+<br>
+
 ## :pencil2: Desafio
 
 Automatizar a jornada de download dos arquivos, armazenados em uma plataforma de vídeos, realizando essa transferência para cloud, através do desenvolvimento de uma aplicação como serviço, tendo como funcionalidade com o usuário somente um menu de configuração, que terão os parâmetros necessários para que o serviço de download processe automaticamente, gerando alertas caso ocorra erro no processamento. Salvar os metadados dos arquivos, para construção de um dashboard para acompanhamento da execução do serviço e posterior análise de resultados e indicadores.
@@ -106,23 +127,6 @@ Automatizar a jornada de download dos arquivos, armazenados em uma plataforma de
 * **Back-end:** Python
 * **Front-end:** Vue.js, HTML e JavaScript
 * **Ferramentas:** IntelliJ IDEA, Visual Studio Code, GitHub e Figma.
-
-<br>
-
-## :computer: Requisitos para instalação do projeto
-
-**Instalação:**
-
-- MidAll parent project including midall-backend and midall-frontend as submodules.
-
-```
-git clone --recurse-submodules https://github.com/TechNinjass/midall-parent.git
-```
-
-- To update submodules projects in ball-parent after having cloned the project (Replace "branch_name" with branch name)
-```
-git pull --recurse-submodules origin <branch_name>
-```
 
 <br>
 
