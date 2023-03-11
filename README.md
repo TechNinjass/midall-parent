@@ -25,8 +25,6 @@
  <a href="https://www.sqlite.org/index.html"><img src = "https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/></a>
  <a href="https://www.docker.com/"><img src = "https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/></a>
  <a href="https://flask.palletsprojects.com/en/2.2.x/"><img src = "https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"/></a>
- <a href="https://www.google.com/intl/pt-br/drive/about.html"><img src = "https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/></a>
- <a href="https://microsoft.sharepoint.com/"><img src = "https://img.shields.io/badge/Microsoft_SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white"/></a>
 </h4>
 
 <br>
