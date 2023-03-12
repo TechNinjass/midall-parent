@@ -1,11 +1,16 @@
-<h5 align="center"> <img src = "" width="20" height="20" /> Equipe - Tech Ninjas | 5° BD </h5>
+<h5 align="center"> <img src = "https://github.com/TechNinjass/midall-parent/blob/main/docs/Images/arminha.png" width="45" height="40" /> Equipe - Tech Ninjas | 5° BD </h5>
 
 <br>
 
 <p align="center">
-<img src ="" width="250" height="120"/>
+<img src ="https://github.com/TechNinjass/midall-parent/blob/main/docs/Images/logo-techNinjass.png" width="250" height="250"/>
  </h3>
 <p align="center">
+
+<p align="center">
+      <h3 align="center"> Tech Ninjas </h3>
+<p align="center">
+
 <hr>
 
 <p align="center"> 
@@ -29,6 +34,27 @@
 
 <br>
 
+<details open><summary>:computer: Instalação do projeto</summary>
+
+<br>
+
+**Requisitos:**
+
+- MidAll parent project including midall-backend and midall-frontend as submodules.
+
+```
+git clone --recurse-submodules https://github.com/TechNinjass/midall-parent.git
+```
+
+- To update submodules projects in ball-parent after having cloned the project (Replace "branch_name" with branch name)
+```
+git pull --recurse-submodules origin <branch_name>
+```
+
+</details>
+
+<br>
+
 ## :pencil2: Desafio
 
 Automatizar a jornada de download dos arquivos, armazenados em uma plataforma de vídeos, realizando essa transferência para cloud, através do desenvolvimento de uma aplicação como serviço, tendo como funcionalidade com o usuário somente um menu de configuração, que terão os parâmetros necessários para que o serviço de download processe automaticamente, gerando alertas caso ocorra erro no processamento. Salvar os metadados dos arquivos, para construção de um dashboard para acompanhamento da execução do serviço e posterior análise de resultados e indicadores.
@@ -37,7 +63,7 @@ Automatizar a jornada de download dos arquivos, armazenados em uma plataforma de
 
 ## :dart: Requisitos do Projeto
 
-<img align="right" width="190" height="300" src="">
+<img align="right" width="190" height="250" src="https://github.com/TechNinjass/midall-parent/blob/main/docs/Images/techNinjassDEV.png">
 
 **Requisitos Funcionais**
  - [x]  Construir uma aplicação que rodará servidor local para configuração e parametrização do serviço.
@@ -104,23 +130,6 @@ Automatizar a jornada de download dos arquivos, armazenados em uma plataforma de
 
 <br>
 
-## :computer: Requisitos para instalação do projeto
-
-**Instalação:**
-
-- MidAll parent project including midall-backend and midall-frontend as submodules.
-
-```
-git clone --recurse-submodules https://github.com/TechNinjass/midall-parent.git
-```
-
-- To update submodules projects in ball-parent after having cloned the project (Replace "branch_name" with branch name)
-```
-git pull --recurse-submodules origin <branch_name>
-```
-
-<br>
-
 ## :bulb: Metodologia Utilizada
 
 * **Metodologia Ágil:** Framework [Scrum](https://www.desenvolvimentoagil.com.br/scrum/)
@@ -137,14 +146,14 @@ git pull --recurse-submodules origin <branch_name>
 
 |Avatar|Nome|Função|LinkedIn|GitHub|
 | -------- |-------- |-------- |-------- |-------- |
-<img src = "https://avatars.githubusercontent.com/u/81338441?v=4" height="50"/> |**Andrew Augusto**|Scrum Master|[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/andrew-augusto-778585127/)|[<img src="https://camo.githubusercontent.com/fbc3df79ffe1a99e482b154b29262ecbb10d6ee4ed22faa82683aa653d72c4e1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d3130303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465" />](https://github.com/AndrewAugusto)
 <img src = "https://avatars.githubusercontent.com/u/70216549?v=4" height="50"/> |**Bryan Ribeiro**|Product Owner|[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/bryanrribeiro/)|[<img src="https://camo.githubusercontent.com/fbc3df79ffe1a99e482b154b29262ecbb10d6ee4ed22faa82683aa653d72c4e1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d3130303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465" />](https://github.com/BryanRibeiro)
-<img src = "https://avatars.githubusercontent.com/u/81268185?v=4" height="50"/> |**Zaion Felippe**|Dev Team|[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/zaion-gomes-b17657214/)|[<img src="https://camo.githubusercontent.com/fbc3df79ffe1a99e482b154b29262ecbb10d6ee4ed22faa82683aa653d72c4e1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d3130303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465" />](https://github.com/ZaionKun)
-<img src = "https://avatars.githubusercontent.com/u/74521818?v=4" height="50"/> |**Carlos Souza**|Dev Team|[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/carlos-fernando-souza-94aa074b/)|[<img src="https://camo.githubusercontent.com/fbc3df79ffe1a99e482b154b29262ecbb10d6ee4ed22faa82683aa653d72c4e1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d3130303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465" />](https://github.com/CarlosSouza87)
-<img src = "https://avatars.githubusercontent.com/u/79488234?v=4" height="50"/> |**Victor Cavichioli**|Dev Team|[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/victor-araujo-paula-cavichioli-9ab48418b/)|[<img src="https://camo.githubusercontent.com/fbc3df79ffe1a99e482b154b29262ecbb10d6ee4ed22faa82683aa653d72c4e1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d3130303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465" />](https://github.com/VictorCavichioli)
-<img src = "https://avatars.githubusercontent.com/u/80283126?v=4" height="50"/> |**Antonio Zago**|Dev Team|[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/antonio-zago-24230b206/)|[<img src="https://camo.githubusercontent.com/fbc3df79ffe1a99e482b154b29262ecbb10d6ee4ed22faa82683aa653d72c4e1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d3130303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465" />](https://github.com/Antonio-Zago)
-<img src = "https://avatars.githubusercontent.com/u/80988756?v=4" height="50"/> |**José Santos**|Dev Team|[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jos%C3%A9-maria-reis-dos-santos/)|[<img src="https://camo.githubusercontent.com/fbc3df79ffe1a99e482b154b29262ecbb10d6ee4ed22faa82683aa653d72c4e1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d3130303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465" />](https://github.com/Jose-dos-santos)
+<img src = "https://avatars.githubusercontent.com/u/74521818?v=4" height="50"/> |**Carlos Souza**|Scrum Master|[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/carlos-fernando-souza-94aa074b/)|[<img src="https://camo.githubusercontent.com/fbc3df79ffe1a99e482b154b29262ecbb10d6ee4ed22faa82683aa653d72c4e1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d3130303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465" />](https://github.com/CarlosSouza87)
 <img src = "https://avatars.githubusercontent.com/u/64873345?v=4" height="50"/> |**Camila Pacheco**|Dev Team|[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/camilaffpacheco/)|[<img src="https://camo.githubusercontent.com/fbc3df79ffe1a99e482b154b29262ecbb10d6ee4ed22faa82683aa653d72c4e1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d3130303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465" />](https://github.com/camilaffpacheco)
+<img src = "https://avatars.githubusercontent.com/u/81338441?v=4" height="50"/> |**Andrew Augusto**|Dev Team|[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/andrew-augusto-778585127/)|[<img src="https://camo.githubusercontent.com/fbc3df79ffe1a99e482b154b29262ecbb10d6ee4ed22faa82683aa653d72c4e1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d3130303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465" />](https://github.com/AndrewAugusto)
+<img src = "https://avatars.githubusercontent.com/u/81268185?v=4" height="50"/> |**Zaion Felippe**|Dev Team|[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/zaion-gomes-b17657214/)|[<img src="https://camo.githubusercontent.com/fbc3df79ffe1a99e482b154b29262ecbb10d6ee4ed22faa82683aa653d72c4e1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d3130303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465" />](https://github.com/ZaionKun)
+<img src = "https://avatars.githubusercontent.com/u/80988756?v=4" height="50"/> |**José Santos**|Dev Team|[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jos%C3%A9-maria-reis-dos-santos/)|[<img src="https://camo.githubusercontent.com/fbc3df79ffe1a99e482b154b29262ecbb10d6ee4ed22faa82683aa653d72c4e1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d3130303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465" />](https://github.com/Jose-dos-santos)
+<img src = "https://avatars.githubusercontent.com/u/48994698?v=4" height="50"/> |**Gabriel Santos**|Dev Team|[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/gabriel-santos-87922b170/)|[<img src="https://camo.githubusercontent.com/fbc3df79ffe1a99e482b154b29262ecbb10d6ee4ed22faa82683aa653d72c4e1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d3130303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465" />](https://github.com/gabrieljssantos)
+<img src = "https://avatars.githubusercontent.com/u/71853528?v=4" height="50"/> |**Orlando Pereira**|Dev Team|[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/orlando-pereira-a09ba9214/)|[<img src="https://camo.githubusercontent.com/fbc3df79ffe1a99e482b154b29262ecbb10d6ee4ed22faa82683aa653d72c4e1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d3130303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465" />](https://github.com/Orlandi-a11)
 
 <br>
 
