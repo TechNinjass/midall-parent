@@ -89,7 +89,7 @@ Automatizar a jornada de download dos arquivos, armazenados em uma plataforma de
 
 ## :hourglass_flowing_sand: Planejamento de Entregas
 
-<img align="right" width="280" height="210" src="https://github.com/TechNinjass/midall-parent/blob/main/docs/Images/techNinjassDEV.png">
+<img align="right" width="300" height="250" src="https://github.com/TechNinjass/midall-parent/blob/main/docs/Images/techNinjassDEV.png">
 
 - [x] [Kickoff]() - 13/02/2023 a 03/03/2023
 
