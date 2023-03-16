@@ -91,7 +91,7 @@ Automatizar a jornada de download dos arquivos, armazenados em uma plataforma de
 
 <img align="right" width="300" height="250" src="https://github.com/TechNinjass/midall-parent/blob/main/docs/Images/techNinjassDEV.png">
 
-- [x] [Kickoff]() - 13/02/2023 a 03/03/2023
+- [x] [Kickoff](https://github.com/TechNinjass/midall-parent/blob/main/docs/Requisitos%20de%20Cliente%205BD%20-%20Midall%20-%20Aluno.pdf) - 13/02/2023 a 03/03/2023
 
 - [x] [SPRINT 1](https://github.com/TechNinjass/midall-parent/blob/main/sprints/sprint-1.md) - 13/03/2023 a 02/04/2023
 
