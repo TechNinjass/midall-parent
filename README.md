@@ -63,7 +63,7 @@ Automatizar a jornada de download dos arquivos, armazenados em uma plataforma de
 
 ## :dart: Requisitos do Projeto
 
-<img align="right" width="300" height="220" src="https://github.com/TechNinjass/midall-parent/blob/main/docs/Images/lapis-papel.png">
+<img align="right" width="256" height="210" src="https://github.com/TechNinjass/midall-parent/blob/main/docs/Images/lapis-papel.png">
 
 **Requisitos Funcionais**
  - [x]  Construir uma aplicação que rodará servidor local para configuração e parametrização do serviço.
@@ -89,7 +89,7 @@ Automatizar a jornada de download dos arquivos, armazenados em uma plataforma de
 
 ## :hourglass_flowing_sand: Planejamento de Entregas
 
-<img align="right" width="300" height="250" src="https://github.com/TechNinjass/midall-parent/blob/main/docs/Images/techNinjassDEV.png">
+<img align="right" width="210" height="256" src="https://github.com/TechNinjass/midall-parent/blob/main/docs/Images/techNinjassDEV.png">
 
 - [x] [Kickoff](https://github.com/TechNinjass/midall-parent/blob/main/docs/Requisitos%20de%20Cliente%205BD%20-%20Midall%20-%20Aluno.pdf) - 13/02/2023 a 03/03/2023
 
@@ -107,7 +107,7 @@ Automatizar a jornada de download dos arquivos, armazenados em uma plataforma de
 
 ## :date: As Sprints
 
-<img align="right" width="300" height="200" src="https://github.com/TechNinjass/midall-parent/blob/main/docs/Images/livro-lampada.png">
+<img align="right" width="235" height="196" src="https://github.com/TechNinjass/midall-parent/blob/main/docs/Images/livro-lampada.png">
 
 🔖 SPRINT 1 ([Link da Pasta](https://github.com/TechNinjass/midall-parent/blob/main/sprints/sprint-1.md)):  Em Andamento 🕗
 
@@ -121,7 +121,7 @@ Automatizar a jornada de download dos arquivos, armazenados em uma plataforma de
 
 ## :computer: Tecnologias Utilizadas
 
-<img align="right" width="250" height="190" src="https://github.com/TechNinjass/midall-parent/blob/main/docs/Images/mesa-dev.png">
+<img align="right" width="218" height="190" src="https://github.com/TechNinjass/midall-parent/blob/main/docs/Images/mesa-dev.png">
 
 * **Banco de Dados:** SQLite
 * **Back-end:** Python
