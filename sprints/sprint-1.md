@@ -48,10 +48,10 @@ Em prol de um melhor aproveitamento das habilidades de cada integrante, o time f
     
 <div align="center">
     
-![Burndown Chart](https://github.com/TechNinjass/midall-parent/blob/main/docs/Images/burndown_sprint1_dia20_03_2023.png)
+![Burndown Chart](https://github.com/TechNinjass/midall-parent/blob/main/docs/Images/burndown_ate_27_03.png)
 </div>
 
-- Gráfico atualizado no dia 20/03/2023. 
+- Gráfico atualizado no dia 27/03/2023. 
   
 <br>
   
