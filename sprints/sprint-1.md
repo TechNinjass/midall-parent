@@ -11,7 +11,7 @@
     <a href="#backlogs">Backlogs</a>
 </p>
 
-Temos um desafio de automatizar a jornada de download dos arquivos, armazenados em na máquina local, realizando essa transferência para cloud.
+Temos um desafio de automatizar a jornada dos arquivos armazenados na nuvem "A", realizando uma transferência para nuvem "B".
 
 <span id="objetivos">
     
