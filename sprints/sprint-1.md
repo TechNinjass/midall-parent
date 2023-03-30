@@ -35,7 +35,21 @@ Os requisitos (tanto do cliente como da instituição de ensino) abrangidos para
 <span id="entregas">
   
 ## :heavy_check_mark: Entregas
-  
+ 
+### :heavy_check_mark: RF 08: Wireframe (Protótipo no Figma)
+    
+Para extrair e entender os desejos do cliente, foi construído um protótipo inicial no Figma, criando a identidade visual e design do sistema, o layout foi validado pelo cliente.
+    
+🥷 **[Clique aqui](https://www.figma.com/file/qYkFXpDoPLd7ptAhrboJcq/Wireframe-TechNinjas?node-id=0-1)** para visualizar o Wireframe do projeto.
+    
+### :heavy_check_mark: RF 06: Modelagem do Banco de Dados
+    
+Fizemos a modelagem do banco de dados para relacionamento das tabelas, conforme abaixo.
+ 
+<h1 align="center"> <img src = "https://github.com/TechNinjass/midall-parent/blob/main/docs/Images/modelologico.jpeg" /></h1>  
+
+:link: **[Clique aqui](https://github.com/TechNinjass/midall-parent/blob/main/docs/Modelo_L%C3%B3gico_Banco_de_Dados_API_MidAll_5_%C2%BA_Semestre.pdf)** para visualizar o documentação do modelo lógico.
+    
 <br>
     
 <span id="burndown">
