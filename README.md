@@ -109,7 +109,7 @@ Automatizar a jornada de download dos arquivos, armazenados em uma plataforma de
 
 <img align="right" width="235" height="196" src="https://github.com/TechNinjass/midall-parent/blob/main/docs/Images/livro-lampada.png">
 
-🔖 SPRINT 1 ([Link da Pasta](https://github.com/TechNinjass/midall-parent/blob/main/sprints/sprint-1.md)):  Em Andamento 🕗
+🔖 SPRINT 1 ([Link da Pasta](https://github.com/TechNinjass/midall-parent/blob/main/sprints/sprint-1.md)):  Concluído ☑️
 
 🔖 SPRINT 2: Em Construção 🚧
 
