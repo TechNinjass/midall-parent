@@ -36,11 +36,40 @@ Os requisitos (tanto do cliente como da instituição de ensino) abrangidos para
   
 ## :heavy_check_mark: Entregas
  
+### :heavy_check_mark: RF 01: Contrução de API que buscará os arquivos que devem ser enviados para Nuvem (MVP)
+
+Criamos a API que faz a transferência dos arquivos do Google Drive para o AWS S3 automaticamente, a aplicação faz uma consulta de novos arquivos a cada 1 minuto.
+    
+<br>
+    
+### :heavy_check_mark: RF 04: Criar tela de histórico de arquivos baixados
+    
+#### 🔎 Tela de Início
+
+Ao entrar, o usuário é direcionado a tela home, com botões que irão encaminhar para outras funções do sistema.
+<h1 align="center"> <img src = "" /></h1>
+    
+#### 🔎 Menu de Arquivos
+
+Nessa tela o usuário poderá acessar a listagem dos arquivos através do botão, futuramente será implementado o dashboard para análise dos dados.
+<h1 align="center"> <img src = "" /></h1>
+    
+#### 🔎 Listagem dos Arquivos (Histórico de Transferência)
+
+Fizemos um histórico dos arquivos transferidos para o AWS S3, através da listagem, o usuário poderá visualizar os metadados dos arquivos que foram transferidos em tempo real.
+<h1 align="center"> <img src = "" /></h1>
+    
+    
+    
+    
+    
 ### :heavy_check_mark: RF 04: Wireframe (Protótipo no Figma)
     
 Para extrair e entender os desejos do cliente, foi construído um protótipo inicial no Figma, criando a identidade visual e design do sistema, o layout foi validado pelo cliente.
     
 🥷 **[Clique aqui](https://www.figma.com/file/qYkFXpDoPLd7ptAhrboJcq/Wireframe-TechNinjas?node-id=0-1)** para visualizar o Wireframe do projeto.
+    
+<br>
     
 ### :heavy_check_mark: RF 13: Modelagem do Banco de Dados
     
@@ -62,10 +91,10 @@ Em prol de um melhor aproveitamento das habilidades de cada integrante, o time f
     
 <div align="center">
     
-![Burndown Chart](https://github.com/TechNinjass/midall-parent/blob/main/docs/Images/burndown_ate_27_03.png)
+![Burndown Chart](https://github.com/TechNinjass/midall-parent/blob/main/docs/Images/brundown-sprint1pronto.png)
 </div>
 
-- Gráfico atualizado no dia 27/03/2023. 
+- Gráfico atualizado no dia 02/04/2023
   
 <br>
   
