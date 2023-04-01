@@ -47,21 +47,18 @@ Criamos a API que faz a transferência dos arquivos do Google Drive para o AWS S
 #### 🔎 Tela de Início
 
 Ao entrar, o usuário é direcionado a tela home, com botões que irão encaminhar para outras funções do sistema.
-<h1 align="center"> <img src = "" /></h1>
+<h1 align="center"> <img src = "https://github.com/TechNinjass/midall-parent/blob/main/docs/Images/telainicio.jpeg" /></h1>
     
 #### 🔎 Menu de Arquivos
 
 Nessa tela o usuário poderá acessar a listagem dos arquivos através do botão, futuramente será implementado o dashboard para análise dos dados.
-<h1 align="center"> <img src = "" /></h1>
+<h1 align="center"> <img src = "https://github.com/TechNinjass/midall-parent/blob/main/docs/Images/telabotaolistagem.jpeg" /></h1>
     
 #### 🔎 Listagem dos Arquivos (Histórico de Transferência)
 
 Fizemos um histórico dos arquivos transferidos para o AWS S3, através da listagem, o usuário poderá visualizar os metadados dos arquivos que foram transferidos em tempo real.
-<h1 align="center"> <img src = "" /></h1>
-    
-    
-    
-    
+<h1 align="center"> <img src = "https://github.com/TechNinjass/midall-parent/blob/main/docs/Images/telalistagemarquivos.jpeg" /></h1>
+ 
     
 ### :heavy_check_mark: RF 04: Wireframe (Protótipo no Figma)
     
