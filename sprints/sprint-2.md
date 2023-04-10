@@ -20,7 +20,7 @@ Os requisitos (tanto do cliente como da instituição de ensino) abrangidos para
 - **RF 05:** Criação da tela para configuração da conta de acesso a API (Drive e AWS)
 - **RF 08:** Criar dashboard para acompanhamento das execuções (ferramenta de BI)
 - **RNF 11:** Testes (Requisito Fatec)
-- **RNF 12:** Melhorias na listagem dos arquivos (Data e Tamanho)
+- **RNF 13:** Melhorias na listagem dos arquivos (Data e Tamanho)
     
 <br>
  
