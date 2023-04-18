@@ -34,7 +34,7 @@
 
 <br>
 
-<details open><summary>:computer: Instalação do projeto</summary>
+<details open><summary>:computer: Configuração do projeto</summary>
 
 <br>
 
@@ -52,6 +52,14 @@ git pull --recurse-submodules origin <branch_name>
 ```
 
 </details>
+
+<br>
+
+## :ringed_planet: Versionamento das Branches
+
+O versionamento de branches no GitHub é uma prática essencial para gerenciar o desenvolvimento de projetos de software em equipe. Um branch é uma ramificação do código fonte do projeto, que permite trabalhar em recursos ou funcionalidades específicas sem afetar o código principal.
+
+#### Link da Documentação: https://github.com/TechNinjass/midall-documentation
 
 <br>
 
