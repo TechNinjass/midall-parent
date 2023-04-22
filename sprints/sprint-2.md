@@ -17,10 +17,9 @@ Temos um desafio de automatizar a jornada dos arquivos armazenados na nuvem "A",
     
 ## :dart: Objetivos da Sprint
 Os requisitos (tanto do cliente como da instituição de ensino) abrangidos para primeira sprint são:
-- **RF 05:** Criação da tela para configuração da conta de acesso a API (Drive e AWS)
+- **RF 05:** Criação da tela para configuração da conta de acesso a API (Drive e Azure)
 - **RF 08:** Criar dashboard para acompanhamento das execuções (ferramenta de BI)
-- **RF 14:** Coleta de metadados dos arquivos
-- **RF 15:** Deletar o arquivo ao ser transferido
+- **RF 14:** Deletar o arquivo ao ser transferido
 - **RNF 11:** Testes (Requisito Fatec)
 - **RNF 13:** Melhorias na listagem dos arquivos (Data e Tamanho)
     
@@ -35,7 +34,19 @@ Os requisitos (tanto do cliente como da instituição de ensino) abrangidos para
   
 ## :heavy_check_mark: Entregas
  
-Em Construção  🚧 
+### :heavy_check_mark: RF 05: Criação da tela para configuração da conta de acesso a API (Drive e Azure)
+
+Fizemos a tela de autenticação de acesso com token entre as nuvens, essa tela foi importante nesse projeto por várias razões:
+
+**Segurança:** A autenticação com token é uma forma de garantir que somente usuários autorizados possam acessar a aplicação e configurar os parâmetros necessários para o serviço de download. Isso ajuda a proteger a aplicação contra acessos não autorizados e garante que apenas os usuários com as devidas permissões possam utilizar a funcionalidade.
+
+**Privacidade:** Ao lidar com arquivos de vídeos armazenados em uma plataforma de vídeos, é possível que esses arquivos contenham informações sensíveis ou confidenciais. A autenticação com token ajuda a garantir que apenas usuários autorizados possam acessar e baixar esses arquivos, mantendo a privacidade dessas informações.
+
+**Rastreabilidade:** A utilização de tokens de autenticação permite rastrear e auditar as ações dos usuários na aplicação. Isso pode ser útil para fins de monitoramento, análise de resultados e identificação de possíveis erros ou atividades suspeitas.
+
+**Integração segura com serviços externos:** A integração com a plataforma de vídeos e o serviço de cloud para transferência de arquivos requer autenticação segura para garantir a integridade e a confidencialidade dos dados. A utilização de tokens de autenticação ajuda a estabelecer essa comunicação de forma segura, protegendo os dados durante a transferência.
+    
+<h1 align="center"> <img src = "https://github.com/TechNinjass/midall-parent/blob/main/docs/Images/tela%20do%20token%20de%20acesso.png" /></h1>
     
 <br>
     
