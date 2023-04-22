@@ -71,7 +71,7 @@ Em prol de um melhor aproveitamento das habilidades de cada integrante, o time f
 
 ## :dart: Backlogs, Épicos & User Stories
 
-<h1 align="center"> <img src = "https://github.com/TechNinjass/midall-parent/blob/main/docs/Images/Backlogs-2.png" /></h1>
+<h1 align="center"> <img src = "https://github.com/TechNinjass/midall-parent/blob/main/docs/Images/backlogs-sprint2.png" /></h1>
 
 <br>
   
