@@ -19,6 +19,8 @@ Temos um desafio de automatizar a jornada dos arquivos armazenados na nuvem "A",
 Os requisitos (tanto do cliente como da instituição de ensino) abrangidos para primeira sprint são:
 - **RF 05:** Criação da tela para configuração da conta de acesso a API (Drive e AWS)
 - **RF 08:** Criar dashboard para acompanhamento das execuções (ferramenta de BI)
+- **RF 15:** Coleta de metadados dos arquivos
+- **RF 14:** Deletar o arquivo ao ser transferido
 - **RNF 11:** Testes (Requisito Fatec)
 - **RNF 13:** Melhorias na listagem dos arquivos (Data e Tamanho)
     
