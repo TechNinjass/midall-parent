@@ -117,9 +117,9 @@ Automatizar a jornada de download dos arquivos, armazenados em uma plataforma de
 
 <img align="right" width="235" height="196" src="https://github.com/TechNinjass/midall-parent/blob/main/docs/Images/livro-lampada.png">
 
-🔖 SPRINT 1 ([Link da Pasta](https://github.com/TechNinjass/midall-parent/blob/main/sprints/sprint-1.md)):  Concluído ☑️
+🔖 SPRINT 1 ([Link da Pasta](https://github.com/TechNinjass/midall-parent/blob/main/sprints/sprint-1.md)) Concluído ☑️
 
-🔖 SPRINT 2 ([Link da Pasta](https://github.com/TechNinjass/midall-parent/blob/main/sprints/sprint-2.md)):  Em Andamento 🕗
+🔖 SPRINT 2 ([Link da Pasta](https://github.com/TechNinjass/midall-parent/blob/main/sprints/sprint-2.md)) Concluído ☑️
 
 🔖 SPRINT 3: Em Construção 🚧
 
@@ -148,7 +148,7 @@ Automatizar a jornada de download dos arquivos, armazenados em uma plataforma de
 
 ## :dart: Backlogs, Épicos & User Stories
 
-<h1 align="center"> <img src = "https://github.com/TechNinjass/midall-parent/blob/main/docs/Images/Backlogs-2.png" /></h1>
+<h1 align="center"> <img src = "https://github.com/TechNinjass/midall-parent/blob/main/docs/Images/Backlogs-3.png" /></h1>
 
 <br>
 
