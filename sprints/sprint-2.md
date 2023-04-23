@@ -79,7 +79,10 @@ Fizemos a tela de autenticação de acesso com token entre as nuvens, essa tela 
 
 ### :heavy_check_mark: RNF 13: Melhorias na listagem dos arquivos (Data e Tamanho)
     
-Em Construção 🏗    
+Conforme sugerido pelo cliente na apresentação da Sprint 1, fizemos a formatação na data e tamanho do arquivo na tela de listagem.
+    
+- Data ajustada para padrão BR
+- Tamanho do Arquivo ajustado para "MB"
     
 ### :heavy_check_mark: RF 14: Deletar o arquivo ao ser transferido
     
