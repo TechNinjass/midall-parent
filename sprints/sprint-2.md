@@ -76,6 +76,20 @@ Fizemos a tela de autenticação de acesso com token entre as nuvens, essa tela 
 - Indicadores de Formato (Quantidade, Tamanho Médio e Total)
     
 <h1 align="center"> <img src = "https://github.com/TechNinjass/midall-parent/blob/main/docs/Images/dashboardcompleto.jpg" /></h1>
+
+### :heavy_check_mark: RNF 13: Melhorias na listagem dos arquivos (Data e Tamanho)
+    
+Em Construção 🏗    
+    
+### :heavy_check_mark: RF 14: Deletar o arquivo ao ser transferido
+    
+Elaboramos uma lógica que faz o arquivo ser deletado do Google Drive ao ser transferido para Azure. Razões pelas quais pode ser importante considerar a exclusão dos arquivos originais após a transferência para outra nuvem no projeto:    
+    
+**Economia de espaço de armazenamento:** A transferência de arquivos para outra nuvem pode consumir espaço de armazenamento na plataforma de origem. Ao excluir os arquivos originais após a transferência, você pode liberar espaço de armazenamento e otimizar o uso dos recursos disponíveis.
+
+**Segurança dos dados:** Excluir os arquivos originais após a transferência pode ajudar a garantir a segurança dos dados. Ao remover os arquivos originais, você diminui a exposição a possíveis riscos de segurança, como acesso não autorizado ou vazamento de dados, especialmente se os arquivos contiverem informações sensíveis.
+
+**Consistência dos dados:** Ao excluir os arquivos originais após a transferência, você evita a possibilidade de ter várias versões do mesmo arquivo, o que pode causar inconsistências nos dados e dificultar a análise e interpretação correta dos resultados.  
     
 <br>
     
