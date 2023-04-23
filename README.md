@@ -129,10 +129,10 @@ Automatizar a jornada de download dos arquivos, armazenados em uma plataforma de
 
 <img align="right" width="218" height="190" src="https://github.com/TechNinjass/midall-parent/blob/main/docs/Images/mesa-dev.png">
 
-* **Banco de Dados:** SQLite
+* **Banco de Dados:** Microsoft SQL Server
 * **Back-end:** Python
 * **Front-end:** Vue.js, HTML e JavaScript
-* **Ferramentas:** IntelliJ IDEA, Visual Studio Code, GitHub e Figma.
+* **Ferramentas:** Looker Studio, Visual Studio Code, GitHub e Figma.
 
 <br>
 
