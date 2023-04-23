@@ -11,8 +11,8 @@
     <a href="#backlogs">Backlogs</a>
 </p>
 
-Temos um desafio de automatizar a jornada dos arquivos armazenados na nuvem "A", realizando uma transferência para nuvem "B".
-
+Temos um desafio de autenticar o usuário através do token de segurança das nuvens, também desenvolvemos um dashboard (v1) para análise dos dados transferidos.
+    
 <span id="objetivos">
     
 ## :dart: Objetivos da Sprint
@@ -48,22 +48,52 @@ Fizemos a tela de autenticação de acesso com token entre as nuvens, essa tela 
     
 <h1 align="center"> <img src = "https://github.com/TechNinjass/midall-parent/blob/main/docs/Images/tela%20do%20token%20de%20acesso.png" /></h1>
     
+### :heavy_check_mark: RF 08: Criar dashboard para acompanhamento das execuções (ferramenta de BI)
+    
+📊 Escolhemos o LuckerStudio para elaborar o dashboard, devido à sua experiência em desenvolvimento de aplicativos como serviço, interface de usuário simplificada, gerenciamento de erros e alertas, habilidades em gerenciamento de dados e análise, experiência em construção de dashboards e suporte técnico e pós-implantação confiáveis.
+    
+1- Dentro do LookerStudio, escolhemos o metodo de conexão Microsoft SQL Server.
+    
+<h1 align="center"> <img src = "https://github.com/TechNinjass/midall-parent/blob/main/docs/Images/1dash.jpg" /></h1>
+    
+2- [Neste link](https://support.google.com/looker-studio/answer/11283389#zippy=%2Cneste-artigo%2Cmostrar-a-lista-de-endere%C3%A7os-ip) conseguimos acessar o IP utilizado pelo looker studio, e este deverá ser liberado dentro da nuvem (Azure).
+    
+<h1 align="center"> <img src = "https://github.com/TechNinjass/midall-parent/blob/main/docs/Images/2dash.jpg" /></h1>
+    
+3- Nas configurações de rede fazemos a liberação para duas faixas de IP, conforme apresentado abaixo.
+    
+<h1 align="center"> <img src = "https://github.com/TechNinjass/midall-parent/blob/main/docs/Images/3dash.jpg" /></h1>
+    
+4- Com esses passos concluídos, podemos preencher os dados dos métodos de conexão:
+    
+<h1 align="center"> <img src = "https://github.com/TechNinjass/midall-parent/blob/main/docs/Images/4dash.jpg" /></h1>
+    
+##  📉 Resultado do Dashboard v.1.0
+    
+- Listagem dos Arquivos Transferidos
+- Filtros de Período, Tamanho e Nome do arquivo.
+- Indicadores Medida (Total, Média, Arquivo mais pesado/leve)
+- Indicadores de Formato (Quantidade, Tamanho Médio e Total)
+    
+<h1 align="center"> <img src = "https://github.com/TechNinjass/midall-parent/blob/main/docs/Images/dashboardcompleto.jpg" /></h1>
+    
 <br>
     
 <span id="burndown">
     
 ## :chart_with_upwards_trend: Burndown
 
-Em prol de um melhor aproveitamento das habilidades de cada integrante, o time foi separado em duas frentes: frontend e backend, onde, na primeira sprint, o time de frontend ficou responsável pela confecção do protótipo, projeto frontend e integração de funcionalidades enquanto o time de backend ficou responsável pela criação dos serviços necessários e identificação dos metadados que serão armazenados no dashboard futuramente.
-
-- O acompanhamento de atividades, de responsabilidade do Scrum Master, se encontra na imagem adiante, que contém o gráfico Burndown gerado pela equipe (onde o eixo X são os dias trabalhados na sprint e os valores do eixo Y representam as entregas e esforços realizados com o passar do tempo), incluindo as atividades desenvolvidas e seus responsáveis.
+O acompanhamento de atividades, de responsabilidade do Scrum Master, se encontra na imagem adiante, que contém o gráfico Burndown gerado pela equipe (onde o eixo X são os dias trabalhados na sprint e os valores do eixo Y representam as entregas e esforços realizados com o passar do tempo), incluindo as quantidade de atividades desenvolvidas.
+    
+- Linha Ideal (Vermelho)
+- Linha Real (Azul)
     
 <div align="center">
     
-![Burndown Chart](https://github.com/TechNinjass/midall-parent/blob/main/docs/Images/burndown-sprint2-1704.png)
+![Burndown Chart](https://github.com/TechNinjass/midall-parent/blob/main/docs/Images/burndown-sprint2-2304.png)
 </div>
 
-- Gráfico atualizado no dia 17/04/2023
+- Gráfico atualizado no dia 23/04/2023
   
 <br>
   
