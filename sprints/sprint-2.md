@@ -16,7 +16,7 @@ Temos um desafio de autenticar o usuário através do token de segurança das nu
 <span id="objetivos">
     
 ## :dart: Objetivos da Sprint
-Os requisitos (tanto do cliente como da instituição de ensino) abrangidos para primeira sprint são:
+Os requisitos (tanto do cliente como da instituição de ensino) abrangidos para segunda sprint são:
 - **RF 05:** Criação da tela para configuração da conta de acesso a API (Drive e Azure)
 - **RF 08:** Criar dashboard para acompanhamento das execuções (ferramenta de BI)
 - **RF 14:** Deletar o arquivo ao ser transferido
