@@ -1,4 +1,4 @@
-<h5 align="center"> <img src = "https://github.com/TechNinjass/midall-parent/blob/main/docs/Images/arminha.png" width="45" height="40" /> Equipe - Tech Ninjas | 5° BD </h5>
+<h5 align="center"> <img src = "https://github.com/TechNinjass/midall-parent/blob/main/docs/Images/arminha.png" width="45" height="40" /> Team - Tech Ninjas | 5° BD </h5>
 
 <br>
 
@@ -14,14 +14,14 @@
 <hr>
 
 <p align="center"> 
-  <a href ="#pencil2-desafio"> Desafio </a>  • 
-  <a href ="#dart-requisitos-do-projeto"> Requisitos </a>  •
-  <a href ="#hourglass_flowing_sand-planejamento-de-entregas"> Planejamento </a>  • 
-  <a href ="#date-as-sprints"> Sprints </a>  • 
-  <a href ="#computer-tecnologias-utilizadas"> Tecnologias </a>  • 
-  <a href ="#bulb-metodologia-utilizada"> Metodologia </a>  • 
-  <a href="#backlogs">Backlogs</a>  • 
-  <a href ="#mortar_board-equipe"> Equipe </a> 
+   <a href="#pencil2-challenge">Challenge</a> •
+   <a href ="#dart-project-requirements"> Requirements </a> •
+   <a href ="#hourglass_flowing_sand-delivery-planning"> Planning </a> •
+   <a href="#date-as-sprints">Sprints</a> •
+   <a href ="#computer-technologies-used"> Technologies </a> •
+   <a href ="#bulb-methodology-used"> Methodology </a> •
+   <a href="#backlogs">Backlogs</a> •
+   <a href="#mortar_board-team">Team</a>
 </p>
 
 <h4 align="center"> 
@@ -34,12 +34,12 @@
 
 <br>
 
-<details open><summary>:computer: Configuração do projeto</summary>
+<details open><summary>:computer: Project configuration</summary>
 
 <br>
 
-**Requisitos:**
-
+**Requirements:**
+ 
 - MidAll parent project including midall-backend and midall-frontend as submodules.
 
 ```
@@ -53,61 +53,61 @@ git pull --recurse-submodules origin <branch_name>
 
 </details>
 
-## :ringed_planet: Versionamento das Branches
+## :ringed_planet: Branch Versioning
 
-O versionamento de branches no GitHub é uma prática essencial para gerenciar o desenvolvimento de projetos de software em equipe. Um branch é uma ramificação do código fonte do projeto, que permite trabalhar em recursos ou funcionalidades específicas sem afetar o código principal.
+Versioning branches on GitHub is an essential practice for managing the development of team software projects. A branch is a branch of the project's source code, which allows you to work on specific features or functionality without affecting the main code.
 
-#### Link da Documentação: https://github.com/TechNinjass/midall-documentation
-
-<br>
-
-## :pencil2: Desafio
-
-Automatizar a jornada de download dos arquivos, armazenados em uma plataforma de vídeos, realizando essa transferência para cloud, através do desenvolvimento de uma aplicação como serviço, tendo como funcionalidade com o usuário somente um menu de configuração, que terão os parâmetros necessários para que o serviço de download processe automaticamente, gerando alertas caso ocorra erro no processamento. Salvar os metadados dos arquivos, para construção de um dashboard para acompanhamento da execução do serviço e posterior análise de resultados e indicadores.
+#### Documentation Link: https://github.com/TechNinjass/midall-documentation
 
 <br>
 
-## :dart: Requisitos do Projeto
+## :pencil2: Challenge
+
+Automate the journey of downloading files, stored on a video platform, transferring them to the cloud, through the development of an application as a service, with only a configuration menu for the user, which will have the necessary parameters for the download service process automatically, generating alerts in case of error in processing. Save the file metadata to build a dashboard to monitor service execution and later analyze results and indicators.
+
+<br>
+
+## :dart: Project Requirements
 
 <img align="right" width="256" height="210" src="https://github.com/TechNinjass/midall-parent/blob/main/docs/Images/lapis-papel.png">
 
-**Requisitos Funcionais**
- - [x]  Construir uma aplicação que rodará servidor local para configuração e parametrização do serviço.
- - [x]  Nessa aplicação, criar tela para configuração do sistema
- - [x]  Criar também, tela para configuração da conta de acesso a api.
- - [x]  Emitir alerta no S.O. avisando que novos arquivos foram baixados
- - [x]  Criar tela de histórico de arquivos baixados.
- - [x]  Construir uma API que será o serviço que buscará os arquivos que devem ser enviados para Cloud.
- - [x]  Conectar com a api de arquivos 
- - [x]  Realizar o download dos arquivos, seguindo as configurações realizadas na aplicação 1.
- - [x]  Criar dashboard para acompanhamento das execuções.<br><br>
+**Functional Requirements**
+  - [x] Build an application that will run on a local server to configure and parameterize the service.
+  - [x] In this application, create screen for system configuration
+  - [x] Also create a screen for configuring the api access account.
+  - [x] Issue alert on OS warning that new files have been downloaded
+  - [x] Create history screen of downloaded files.
+  - [x] Build an API that will be the service that will fetch the files that must be sent to the Cloud.
+  - [x] Connect with the files api
+  - [x] Download the files, following the settings made in the application 1.
+  - [x] Create dashboard to monitor executions.<br><br>
 
-**Requisitos Não Funcionais**
+**Non-Functional Requirements**
 
- - [x]  Criar mecanismo de autenticação com a aplicação 2, hospedada na nuvem.<br><br>
+  - [x] Create authentication mechanism with application 2, hosted in the cloud.<br><br>
 
 <br>
 
-**:link: Clique no link abaixo para visualizar o *Kanban* de atividades da equipe:** 
+**:link: Click the link below to view the *Kanban* of team activities:**
 > [Kanban Projects GitHub](https://github.com/orgs/TechNinjass/projects/2)
 
 <br>
 
-## :hourglass_flowing_sand: Planejamento de Entregas
+## :hourglass_flowing_sand: Delivery Planning
 
 <img align="right" width="210" height="256" src="https://github.com/TechNinjass/midall-parent/blob/main/docs/Images/techNinjassDEV.png">
 
-- [x] [Kickoff](https://github.com/TechNinjass/midall-parent/blob/main/docs/Requisitos%20de%20Cliente%205BD%20-%20Midall%20-%20Aluno.pdf) - 13/02/2023 a 03/03/2023
+- [x] [Kickoff](https://github.com/TechNinjass/midall-parent/blob/main/docs/Requisitos%20de%20Cliente%205BD%20-%20Midall%20-%20Aluno.pdf) - 13 /02/2023 to 03/03/2023
 
-- [x] [SPRINT 1](https://github.com/TechNinjass/midall-parent/blob/main/sprints/sprint-1.md) - 13/03/2023 a 02/04/2023
+- [x] [SPRINT 1](https://github.com/TechNinjass/midall-parent/blob/main/sprints/sprint-1.md) - 03/13/2023 to 04/02/2023
 
-- [x] [SPRINT 2](https://github.com/TechNinjass/midall-parent/blob/main/sprints/sprint-2.md) - 03/04/2023 a 23/04/2023
+- [x] [SPRINT 2](https://github.com/TechNinjass/midall-parent/blob/main/sprints/sprint-2.md) - 04/03/2023 to 04/23/2023
 
-- [x] [SPRINT 3](https://github.com/TechNinjass/midall-parent/blob/main/sprints/sprint-3.md) - 24/04/2023 a 14/05/2023
+- [x] [SPRINT 3](https://github.com/TechNinjass/midall-parent/blob/main/sprints/sprint-3.md) - 04/24/2023 to 05/14/2023
 
-- [ ] [SPRINT 4]() - 15/05/2023 a 04/06/2023
+- [ ] [SPRINT 4]() - 05/15/2023 to 06/04/2023
 
-- [ ] Feira de Soluções - 13/06/2023 e 14/06/2023 às 19h
+- [ ] Solutions Fair - 06/13/2023 and 06/14/2023 at 7 pm
 
 <br>
 
@@ -115,30 +115,30 @@ Automatizar a jornada de download dos arquivos, armazenados em uma plataforma de
 
 <img align="right" width="235" height="196" src="https://github.com/TechNinjass/midall-parent/blob/main/docs/Images/livro-lampada.png">
 
-🔖 SPRINT 1 ([Link da Pasta](https://github.com/TechNinjass/midall-parent/blob/main/sprints/sprint-1.md)) Concluído ☑️
+🔖 SPRINT 1 ([Folder Link](https://github.com/TechNinjass/midall-parent/blob/main/sprints/sprint-1.md)) Done ☑️
 
-🔖 SPRINT 2 ([Link da Pasta](https://github.com/TechNinjass/midall-parent/blob/main/sprints/sprint-2.md)) Concluído ☑️
+🔖 SPRINT 2 ([Folder Link](https://github.com/TechNinjass/midall-parent/blob/main/sprints/sprint-2.md)) Done ☑️
 
-🔖 SPRINT 3 ([Link da Pasta](https://github.com/TechNinjass/midall-parent/blob/main/sprints/sprint-3.md)) Em Andamento ⏰
+🔖 SPRINT 3 ([Folder Link](https://github.com/TechNinjass/midall-parent/blob/main/sprints/sprint-3.md)) In Progress ⏰
 
-🔖 SPRINT 4: Em Construção 🚧
+🔖 SPRINT 4: Under Construction 🚧
 
 <br>
 
-## :computer: Tecnologias Utilizadas
+## :computer: Technologies Used
 
 <img align="right" width="218" height="190" src="https://github.com/TechNinjass/midall-parent/blob/main/docs/Images/mesa-dev.png">
 
-* **Banco de Dados:** Microsoft SQL Server
-* **Back-end:** Python
-* **Front-end:** Vue.js, HTML e JavaScript
-* **Ferramentas:** Looker Studio, Visual Studio Code, GitHub e Figma.
+* **Database:** Microsoft SQL Server
+* **Backend:** Python
+* **Front-end:** Vue.js, HTML and JavaScript
+* **Tools:** Looker Studio, Visual Studio Code, GitHub and Figma.
 
 <br>
 
-## :bulb: Metodologia Utilizada
+## :bulb: Methodology Used
 
-* **Metodologia Ágil:** Framework [Scrum](https://www.desenvolvimentoagil.com.br/scrum/)
+* **Agile Methodology:** Framework [Scrum](https://www.desenvolvimentoagil.com.br/scrum/)
 
 <br>
 
@@ -150,9 +150,9 @@ Automatizar a jornada de download dos arquivos, armazenados em uma plataforma de
 
 <br>
 
-## :mortar_board: Equipe 
+## :mortar_board: Team 
 
-|Avatar|Nome|Função|LinkedIn|GitHub|
+|Avatar|Name|Role|LinkedIn|GitHub|
 | -------- |-------- |-------- |-------- |-------- |
 <img src = "https://avatars.githubusercontent.com/u/70216549?v=4" height="50"/> |**Bryan Ribeiro**|Product Owner|[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/bryanrribeiro/)|[<img src="https://camo.githubusercontent.com/fbc3df79ffe1a99e482b154b29262ecbb10d6ee4ed22faa82683aa653d72c4e1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d3130303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465" />](https://github.com/BryanRibeiro)
 <img src = "https://avatars.githubusercontent.com/u/74521818?v=4" height="50"/> |**Carlos Souza**|Scrum Master|[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/carlos-fernando-souza-94aa074b/)|[<img src="https://camo.githubusercontent.com/fbc3df79ffe1a99e482b154b29262ecbb10d6ee4ed22faa82683aa653d72c4e1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d3130303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465" />](https://github.com/CarlosSouza87)
