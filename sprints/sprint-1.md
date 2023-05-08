@@ -1,80 +1,80 @@
-## 13/03/2023 a 02/04/2023
+## 03/13/2023 to 04/02/2023
 
-<span id="topo">
+<span id="top">
 
-<h1 align="center">:bookmark: Primeira Entrega - SPRINT 1</h1>
+<h1 align="center">:bookmark: First Delivery - SPRINT 1</h1>
 
 <p align="center">
-    <a href="#objetivos">Objetivos da sprint</a> &nbsp |&nbsp &nbsp
-    <a href="#entregas">Entregas</a> &nbsp |&nbsp &nbsp
-    <a href="#burndown">Burndown</a> &nbsp |&nbsp &nbsp
-    <a href="#backlogs">Backlogs</a>
+     <a href="#goals">Sprint goals</a> &nbsp |&nbsp &nbsp
+     <a href="#deliveries">Deliveries</a> &nbsp |&nbsp &nbsp
+     <a href="#burndown">Burndown</a> &nbsp |&nbsp &nbsp
+     <a href="#backlogs">Backlogs</a>
 </p>
 
-Temos um desafio de automatizar a jornada dos arquivos armazenados na nuvem "A", realizando uma transferência para nuvem "B".
+We have a challenge to automate the journey of files stored in cloud "A", performing a transfer to cloud "B".
 
-<span id="objetivos">
+<span id="goals">
     
-## :dart: Objetivos da Sprint
-Os requisitos (tanto do cliente como da instituição de ensino) abrangidos para primeira sprint são:
-- **RF 01:** Contrução de API que buscará os arquivos que devem ser enviados para Nuvem.
-- **RF 02:** Conexão com a API de arquivos (Google Drive e AWS S3)
-- **RF 03:** Realizar o download dos arquivos e transferência de Nuvem para Nuvem.
-- **RF 04:** Criar tela de histórico de arquivos baixados
-- **RNF 11:** Testes (Requisito Fatec)
-- **RNF 12:** Implementar CI/CD (Requisito Fatec)
-- **RNF 13:** Documentação (Requisito Fatec)
+## :dart: Sprint Goals
+The requirements (both customer and educational institution) covered for the first sprint are:
+- **RF 01:** Construction of the API that will fetch the files that must be sent to the Cloud.
+- **RF 02:** File API connection (Google Drive and AWS S3)
+- **RF 03:** Download files and transfer from Cloud to Cloud.
+- **RF 04:** Create downloaded file history screen
+- **RNF 11:** Tests (Fatec Requirement)
+- **RNF 12:** Implement CI/CD (Fatec Requirement)
+- **RNF 13:** Documentation (Fatec Requirement)
     
 <br>
  
-**:link: Clique no link abaixo para visualizar o *Kanban* de atividades da equipe:** 
+**:link: Click the link below to view the *Kanban* of team activities:**
 > [Kanban Projects GitHub](https://github.com/orgs/TechNinjass/projects/2)
   
 <br>
     
-<span id="entregas">
+<span id="deliveries">
   
-## :heavy_check_mark: Entregas
+## :heavy_check_mark: Deliveries
  
-### :heavy_check_mark: RF 01: Contrução de API que buscará os arquivos que devem ser enviados para Nuvem (MVP)
+### :heavy_check_mark: RF 01: API construction that will fetch the files that must be sent to the Cloud (MVP)
 
-Criamos a API que faz a transferência dos arquivos do Google Drive para o AWS S3 automaticamente, a aplicação faz uma consulta de novos arquivos a cada 1 minuto.
+We created the API that transfers files from Google Drive to AWS S3 automatically, the application queries new files every 1 minute.
     
 <br>
     
-### :heavy_check_mark: RF 04: Criar tela de histórico de arquivos baixados
+### :heavy_check_mark: RF 04: Create downloaded file history screen
     
-#### 🔎 Tela de Início
+#### 🔎 Home Screen
 
-Ao entrar, o usuário é direcionado a tela home, com botões que irão encaminhar para outras funções do sistema.
+Upon entering, the user is directed to the home screen, with buttons that will forward to other functions of the system.
 <h1 align="center"> <img src = "https://github.com/TechNinjass/midall-parent/blob/main/docs/Images/telainicio.jpeg" /></h1>
     
-#### 🔎 Menu de Arquivos
+#### 🔎 File Menu
 
-Nessa tela o usuário poderá acessar a listagem dos arquivos através do botão, futuramente será implementado o dashboard para análise dos dados.
-<h1 align="center"> <img src = "https://github.com/TechNinjass/midall-parent/blob/main/docs/Images/telabotaolistagem.jpeg" /></h1>
+On this screen, the user will be able to access the list of files through the button, in the future the dashboard for data analysis will be implemented.
+<h1 align="center"> <img src="https://github.com/TechNinjass/midall-parent/blob/main/docs/Images/telabotaolistagem.jpeg" /></h1>
     
-#### 🔎 Listagem dos Arquivos (Histórico de Transferência)
+#### 🔎 File Listing (Transfer History)
 
-Fizemos um histórico dos arquivos transferidos para o AWS S3, através da listagem, o usuário poderá visualizar os metadados dos arquivos que foram transferidos em tempo real.
-<h1 align="center"> <img src = "https://github.com/TechNinjass/midall-parent/blob/main/docs/Images/telalistagemarquivos.jpeg" /></h1>
+We made a history of the files transferred to AWS S3, through the listing, the user will be able to view the metadata of the files that were transferred in real time.
+<h1 align="center"> <img src="https://github.com/TechNinjass/midall-parent/blob/main/docs/Images/telalistagemarquivos.jpeg" /></h1>
  
     
-### :heavy_check_mark: RF 04: Wireframe (Protótipo no Figma)
+### :heavy_check_mark: RF 04: Wireframe (Prototype in Figma)
     
-Para extrair e entender os desejos do cliente, foi construído um protótipo inicial no Figma, criando a identidade visual e design do sistema, o layout foi validado pelo cliente.
+To extract and understand the customer's wishes, an initial prototype was built in Figma, creating the visual identity and design of the system, the layout was validated by the customer.
     
-🥷 **[Clique aqui](https://www.figma.com/file/qYkFXpDoPLd7ptAhrboJcq/Wireframe-TechNinjas?node-id=0-1)** para visualizar o Wireframe do projeto.
+🥷 **[Click here](https://www.figma.com/file/qYkFXpDoPLd7ptAhrboJcq/Wireframe-TechNinjas?node-id=0-1)** to view the project wireframe.
     
 <br>
     
-### :heavy_check_mark: RF 13: Modelagem do Banco de Dados
+### :heavy_check_mark: RF 13: Database Modeling
     
-Fizemos a modelagem do banco de dados para relacionamento das tabelas, conforme abaixo.
+We modeled the database to relate the tables, as shown below.
  
-<h1 align="center"> <img src = "https://github.com/TechNinjass/midall-parent/blob/main/docs/Images/modelologico.jpeg" /></h1>  
+<h1 align="center"> <img src="https://github.com/TechNinjass/midall-parent/blob/main/docs/Images/modelologico.jpeg" /></h1>
 
-:link: **[Clique aqui](https://github.com/TechNinjass/midall-parent/blob/main/docs/Modelo_L%C3%B3gico_Banco_de_Dados_API_MidAll_5_%C2%BA_Semestre.pdf)** para visualizar o documentação do modelo lógico.
+:link: **[Click here](https://github.com/TechNinjass/midall-parent/blob/main/docs/Modelo_L%C3%B3gico_Banco_de_Data_API_MidAll_5_%C2%BA_Semestre.pdf)** to view the model documentation logical.
     
 <br>
     
@@ -82,25 +82,25 @@ Fizemos a modelagem do banco de dados para relacionamento das tabelas, conforme 
     
 ## :chart_with_upwards_trend: Burndown
 
-Em prol de um melhor aproveitamento das habilidades de cada integrante, o time foi separado em duas frentes: frontend e backend, onde, na primeira sprint, o time de frontend ficou responsável pela confecção do protótipo, projeto frontend e integração de funcionalidades enquanto o time de backend ficou responsável pela criação dos serviços necessários e identificação dos metadados que serão armazenados no dashboard futuramente.
+In order to make better use of each member's skills, the team was separated into two fronts: frontend and backend, where, in the first sprint, the frontend team was responsible for making the prototype, frontend design and integration of features while the team the backend was responsible for creating the necessary services and identifying the metadata that will be stored in the dashboard in the future.
 
-- O acompanhamento de atividades, de responsabilidade do Scrum Master, se encontra na imagem adiante, que contém o gráfico Burndown gerado pela equipe (onde o eixo X são os dias trabalhados na sprint e os valores do eixo Y representam as entregas e esforços realizados com o passar do tempo), incluindo as atividades desenvolvidas e seus responsáveis.
+- The monitoring of activities, the responsibility of the Scrum Master, is shown in the image below, which contains the Burndown chart generated by the team (where the X axis is the days worked in the sprint and the Y axis values represent the deliveries and efforts made with the passage of time), including the activities carried out and those responsible for them.
     
 <div align="center">
     
 ![Burndown Chart](https://github.com/TechNinjass/midall-parent/blob/main/docs/Images/brundown-sprint1pronto.png)
 </div>
 
-- Gráfico atualizado no dia 02/04/2023
+- Graph updated on 04/02/2023
   
 <br>
   
 <span id="backlogs">
 
-## :dart: Backlogs, Épicos & User Stories
+## :dart: Backlogs, Epics & User Stories
 
-<h1 align="center"> <img src = "https://github.com/TechNinjass/midall-parent/blob/main/docs/Images/Backlogs-2.png" /></h1>
+<h1 align="center"> <img src="https://github.com/TechNinjass/midall-parent/blob/main/docs/Images/Backlogs-2.png" /></h1>
 
 <br>
   
-→ [Voltar ao topo](#topo)
+→ [Back to top](#topo)
