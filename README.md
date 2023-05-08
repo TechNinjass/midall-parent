@@ -144,7 +144,7 @@ Automate the journey of downloading files, stored on a video platform, transferr
 
 <span id="backlogs">
 
-## :dart: Backlogs, Épicos & User Stories
+## :dart: Backlogs, Epics & User Stories
 
 <h1 align="center"> <img src = "https://github.com/TechNinjass/midall-parent/blob/main/docs/Images/Backlogs-3.png" /></h1>
 
