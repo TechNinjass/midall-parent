@@ -138,7 +138,7 @@ Automate the journey of downloading files, stored on a video platform, transferr
 
 ## :bulb: Methodology Used
 
-* **Agile Methodology:** Framework [Scrum](https://www.desenvolvimentoagil.com.br/scrum/)
+* **Agile Methodology:** Framework [Scrum](https://www.scrum.org/)
 
 <br>
 
