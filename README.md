@@ -103,7 +103,7 @@ Automatizar a jornada de download dos arquivos, armazenados em uma plataforma de
 
 - [x] [SPRINT 2](https://github.com/TechNinjass/midall-parent/blob/main/sprints/sprint-2.md) - 03/04/2023 a 23/04/2023
 
-- [ ] [SPRINT 3]() - 24/04/2023 a 14/05/2023
+- [x] [SPRINT 3](https://github.com/TechNinjass/midall-parent/blob/main/sprints/sprint-3.md) - 24/04/2023 a 14/05/2023
 
 - [ ] [SPRINT 4]() - 15/05/2023 a 04/06/2023
 
@@ -119,7 +119,7 @@ Automatizar a jornada de download dos arquivos, armazenados em uma plataforma de
 
 🔖 SPRINT 2 ([Link da Pasta](https://github.com/TechNinjass/midall-parent/blob/main/sprints/sprint-2.md)) Concluído ☑️
 
-🔖 SPRINT 3: Em Construção 🚧
+🔖 SPRINT 3 ([Link da Pasta](https://github.com/TechNinjass/midall-parent/blob/main/sprints/sprint-3.md)) Em Andamento ⏰
 
 🔖 SPRINT 4: Em Construção 🚧
 
