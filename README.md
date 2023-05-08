@@ -97,7 +97,7 @@ Automate the journey of downloading files, stored on a video platform, transferr
 
 <img align="right" width="210" height="256" src="https://github.com/TechNinjass/midall-parent/blob/main/docs/Images/techNinjassDEV.png">
 
-- [x] [Kickoff](https://github.com/TechNinjass/midall-parent/blob/main/docs/Requisitos%20de%20Cliente%205BD%20-%20Midall%20-%20Aluno.pdf) - 13 /02/2023 to 03/03/2023
+- [x] [Kickoff](https://github.com/TechNinjass/midall-parent/blob/main/docs/Requisitos%20de%20Cliente%205BD%20-%20Midall%20-%20Aluno.pdf) - 13/02/2023 to 03/03/2023
 
 - [x] [SPRINT 1](https://github.com/TechNinjass/midall-parent/blob/main/sprints/sprint-1.md) - 03/13/2023 to 04/02/2023
 
