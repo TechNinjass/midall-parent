@@ -50,7 +50,7 @@ O acompanhamento de atividades, de responsabilidade do Scrum Master, se encontra
     
 <div align="center">
     
-![Burndown Chart](https://github.com/TechNinjass/midall-parent/blob/main/docs/Images/burndown-sprint2-2304.png)
+![Burndown Chart](https://github.com/TechNinjass/midall-parent/blob/main/docs/Images/burndown_dia0805.png)
 </div>
 
 - Gráfico atualizado no dia 08/05/2023
