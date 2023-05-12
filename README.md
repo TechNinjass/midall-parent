@@ -119,7 +119,7 @@ Automate the journey of downloading files, stored on a video platform, transferr
 
 🔖 SPRINT 2 ([Folder Link](https://github.com/TechNinjass/midall-parent/blob/main/sprints/sprint-2.md)) Done ☑️
 
-🔖 SPRINT 3 ([Folder Link](https://github.com/TechNinjass/midall-parent/blob/main/sprints/sprint-3.md)) In Progress ⏰
+🔖 SPRINT 3 ([Folder Link](https://github.com/TechNinjass/midall-parent/blob/main/sprints/sprint-3.md)) Done ☑️
 
 🔖 SPRINT 4: Under Construction 🚧
 
