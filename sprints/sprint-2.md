@@ -46,7 +46,7 @@ We made the token access authentication screen between the clouds, this screen w
 
 **Secure integration with external services:** Integration with video platform and cloud service for file transfer requires secure authentication to ensure data integrity and confidentiality. The use of authentication tokens helps establish this communication securely, protecting data during transfer.
     
-<h1 align="center"> <img src="https://github.com/TechNinjass/midall-parent/blob/main/docs/Images/tela%20do%20token%20de%20acesso.png" />< /h1>
+<h1 align="center"> <img src="https://github.com/TechNinjass/midall-parent/blob/main/docs/Images/tela%20do%20token%20de%20acesso.png" /></h1>
     
 ### :heavy_check_mark: RF 08: Create dashboard to monitor executions (BI tool)
     
