@@ -45,7 +45,7 @@ The requirements (both customer and educational institution) covered for third s
 - BD Connections - Failure (System Errors)
 - BD Connections - Failure (Users Errors)
     
-<h1 align="center"> <img src="https://github.com/TechNinjass/midall-parent/blob/main/docs/Images/grafana-print.png" /></h1>
+<h1 align="center"> <img src="https://github.com/TechNinjass/midall-parent/blob/main/docs/Images/grafana-grafico.png" /></h1>
     
 <br>
     
