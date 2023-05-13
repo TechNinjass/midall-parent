@@ -18,7 +18,7 @@ We have a challenge to implement the service configuration interface, which will
 ## :dart: Sprint Goals
 The requirements (both customer and educational institution) covered for third sprint are:
 - **RF 07:** Create screen for system configuration (application for service configuration and parameterization)
-- **RF 08:** Implementation of graphics and dashboard improvements
+- **RF 08:** Monitoring system and data health through Grafana
 - **RF 09:** Issue an alert in the OS warning that new files have been downloaded
 - **RNF 14:** Front-end layout improvements (Home Screen and Sidebar)
 - **RNF 15:** File transfer status
@@ -34,8 +34,18 @@ The requirements (both customer and educational institution) covered for third s
 <span id="deliveries">
   
 ## :heavy_check_mark: Deliveries
- 
-Under Construction 🏗️
+
+### :heavy_check_mark: RF 08: Monitoring system and data health through Grafana
+    
+📊 In this sprint we used Grafana to create the reports, now the user can view the metrics as below:
+
+- CPU usage
+- Deadlocks
+- BD Connections - Success
+- BD Connections - Failure (System Errors)
+- BD Connections - Failure (Users Errors)
+    
+<h1 align="center"> <img src="https://github.com/TechNinjass/midall-parent/blob/main/docs/Images/grafana-print.png" /></h1>
     
 <br>
     
@@ -50,10 +60,10 @@ The monitoring of activities, which is the responsibility of the Scrum Master, i
     
 <div align="center">
     
-![Burndown Chart](https://github.com/TechNinjass/midall-parent/blob/main/docs/Images/burndown_dia0805.png)
+![Burndown Chart](https://github.com/TechNinjass/midall-parent/blob/main/docs/Images/burndown-12.05.png)
 </div>
 
-- Graph updated on 5/8/2023
+- Graph updated on 5/12/2023
   
 <br>
   
@@ -61,7 +71,7 @@ The monitoring of activities, which is the responsibility of the Scrum Master, i
 
 ## :dart: Backlogs, Epics & User Stories
 
-<h1 align="center"> <img src = "https://github.com/TechNinjass/midall-parent/blob/main/docs/Images/Backlogs-3.png" /></h1>
+<h1 align="center"> <img src = "https://github.com/TechNinjass/midall-parent/blob/main/docs/Images/Backlogs-4.png" /></h1>
 
 <br>
   
