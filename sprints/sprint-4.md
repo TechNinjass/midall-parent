@@ -1,8 +1,8 @@
-## 04/24/2023 to 05/14/2023
+## 05/15/2023 to 06/04/2023
 
 <span id="topo">
 
-<h1 align="center">:bookmark: Third Delivery - SPRINT 3</h1>
+<h1 align="center">:bookmark: Fourth Delivery - SPRINT 4</h1>
 
 <p align="center">
      <a href="#goals">Sprint goals</a> &nbsp |&nbsp &nbsp
@@ -35,56 +35,8 @@ The requirements (both customer and educational institution) covered for third s
   
 ## :heavy_check_mark: Deliveries
 
-### :heavy_check_mark: RF 07/RF 16: Create screen for system configuration (application for service configuration and parameterization)    
-The configuration screen allows the user to specify the necessary parameters for the download process, such as the video platform, the destination cloud, authentication credentials, file types to be downloaded, update frequency, among others.
+Under Construction 🏗️
 
-With a configuration screen, the user can customize the service to their specific needs and ensure that it is running optimally. This increases the efficiency of the service and ensures that it is meeting user expectations. In addition, the configuration screen also allows the user to adjust the service parameters as their needs change, which ensures the flexibility of the system.     
-     
-The user can define:
-
-- The API check hours and minutes for transfer
-- Configure drive and azure directories in process     
-  
-<h1 align="center"> <img src="https://github.com/TechNinjass/midall-parent/blob/main/docs/Images/5-teladeconfig.jpeg" /></h1>
-       
-### :heavy_check_mark: RF 08: Monitoring system and data health through Grafana
-  
-📊 In this sprint we used Grafana to create the reports, Grafana is a data visualization and monitoring platform that can be integrated with multiple data sources including databases, infrastructure monitoring systems, cloud services and more.
-     
-Now the user can view the metrics as below:
-
-- CPU usage
-- Deadlocks
-- BD Connections - Success
-- BD Connections - Failure (System Errors)
-- BD Connections - Failure (Users Errors)
-    
-<h1 align="center"> <img src="https://github.com/TechNinjass/midall-parent/blob/main/docs/Images/grafana-grafico.png" /></h1>
-    
-### :heavy_check_mark: RF 09: Issue an alert in the OS warning that new files have been downloaded 
-     
-🔋 We have made the alert in the operating system (OS) to ensure that the process of downloading transferred files is done reliably and efficiently. This allows the user to take the necessary steps to correct any issues in the process and ensure that the download completes.
-     
-### :heavy_check_mark: RF 14: Front-end layout improvements (Home Screen and Sidebar)
-     
-Improving the layout can improve the efficiency of the system, making it easier for the user to navigate and use the service. A clear, uncluttered user interface allows the user to easily find the information they need and perform tasks faster. This increases user productivity and reduces the possibility of errors or frustration.     
-     
-- Updated Home Screen ✨   
-     
-<h1 align="center"> <img src="https://github.com/TechNinjass/midall-parent/blob/main/docs/Images/1home.png" /></h1>
-
-- Navegation Sidebar ☄    
-     
-<h1 align="center"> <img src="https://github.com/TechNinjass/midall-parent/blob/main/docs/Images/4-side-bar.png" /></h1>     
-     
-We also made improvements to the layout of other screens, as below:    
-     
-- Drive and Azure Modals 💫     
-     
-<h1 align="center"> <img src="https://github.com/TechNinjass/midall-parent/blob/main/docs/Images/2modal-drive.jpeg" /></h1>     
-
-<h1 align="center"> <img src="https://github.com/TechNinjass/midall-parent/blob/main/docs/Images/3modal-azure.jpeg" /></h1>     
-     
 <br>
     
 <span id="burndown">
@@ -98,10 +50,10 @@ The monitoring of activities, which is the responsibility of the Scrum Master, i
     
 <div align="center">
     
-![Burndown Chart](https://github.com/TechNinjass/midall-parent/blob/main/docs/Images/burndown.14-05.png)
+![Burndown Chart](https://github.com/TechNinjass/midall-parent/blob/main/docs/Images/burndown-21.05.png)
 </div>
 
-- Graph updated on 5/14/2023
+- Graph updated on 5/22/2023
   
 <br>
   
