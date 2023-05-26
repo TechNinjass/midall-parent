@@ -11,18 +11,16 @@
      <a href="#backlogs">Backlogs</a>
 </p>
 
-We have a challenge to implement the service configuration interface, which will allow the user to configure the necessary parameters for the service to work properly.
-    
+We have the challenge of implementing the limitation of network bandwidth consumption in the system configuration screen, and including graphs in the dashboard for user analysis.
+
 <span id="goals">
     
 ## :dart: Sprint Goals
 The requirements (both customer and educational institution) covered for third sprint are:
-- **RF 07:** Create screen for system configuration (application for service configuration and parameterization)
-- **RF 08:** Monitoring system and data health through Grafana
-- **RF 09:** Issue an alert in the OS warning that new files have been downloaded
-- **RNF 14:** Front-end layout improvements (Home Screen and Sidebar)
-- **RNF 15:** File transfer status
-- **RF 16:** Scan time (how often the system checks for new files)
+- **RF 07:** Network Bandwidth Consumption Limitation
+- **RF 17:** Dashboard Improvements (Graphics)
+- **RNF 11:** Tests
+- **RNF 13:** Scan time (how often the system checks for new files)
     
 <br>
  
@@ -50,10 +48,10 @@ The monitoring of activities, which is the responsibility of the Scrum Master, i
     
 <div align="center">
     
-![Burndown Chart](https://github.com/TechNinjass/midall-parent/blob/main/docs/Images/burndown-21.05.png)
+![Burndown Chart](https://github.com/TechNinjass/midall-parent/blob/main/docs/Images/burndown-26052023.png)
 </div>
 
-- Graph updated on 5/22/2023
+- Graph updated on 5/26/2023
   
 <br>
   
