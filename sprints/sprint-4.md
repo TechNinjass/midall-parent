@@ -48,10 +48,10 @@ The monitoring of activities, which is the responsibility of the Scrum Master, i
     
 <div align="center">
     
-![Burndown Chart](https://github.com/TechNinjass/midall-parent/blob/main/docs/Images/burndown-26052023.png)
+![Burndown Chart](https://github.com/TechNinjass/midall-parent/blob/main/docs/Images/burndown-29.05.png)
 </div>
 
-- Graph updated on 5/26/2023
+- Graph updated on 5/29/2023
   
 <br>
   
