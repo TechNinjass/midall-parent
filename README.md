@@ -57,7 +57,7 @@ git pull --recurse-submodules origin <branch_name>
 
 This repository contains the documentation of each DevOps item implemented in the FATEC project with Midall during the 5th semester of the Database course. It provides a detailed description of each item, explaining our DevOps workflow, methodologies used, tools used, technologies chosen, and much more.
  
-#### 🔗 [Wiki Documentation Link](https://github.com/TechNinjass/midall-parent/wiki/Documentation)
+#### 🔗 [Wiki Documentation Link](https://github.com/TechNinjass/midall-parent/wiki)
 
 <br>
 
