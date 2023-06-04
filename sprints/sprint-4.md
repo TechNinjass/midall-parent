@@ -26,9 +26,17 @@ The requirements (both customer and educational institution) covered for third s
  
 **:link: Click the link below to view the *Kanban* of team activities:**
 > [Kanban Projects GitHub](https://github.com/orgs/TechNinjass/projects/2)
-  
-<br>
     
+<br>     
+     
+## :closed_book: DevOps
+
+This repository contains the documentation of each DevOps item implemented in the FATEC project with Midall during the 5th semester of the Database course. It provides a detailed description of each item, explaining our DevOps workflow, methodologies used, tools used, technologies chosen, and much more.
+ 
+#### 🔗 [Wiki Documentation Link](https://github.com/TechNinjass/midall-parent/wiki)       
+     
+<br>     
+     
 <span id="deliveries">
   
 ## :heavy_check_mark: Deliveries
