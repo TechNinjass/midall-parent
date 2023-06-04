@@ -48,10 +48,10 @@ The monitoring of activities, which is the responsibility of the Scrum Master, i
     
 <div align="center">
     
-![Burndown Chart](https://github.com/TechNinjass/midall-parent/blob/main/docs/Images/burndown-29.05.png)
+![Burndown Chart](https://github.com/TechNinjass/midall-parent/blob/main/docs/Images/burndown-04.06.png)
 </div>
 
-- Graph updated on 5/29/2023
+- Graph updated on 6/04/2023
   
 <br>
   
@@ -59,7 +59,7 @@ The monitoring of activities, which is the responsibility of the Scrum Master, i
 
 ## :dart: Backlogs, Epics & User Stories
 
-<h1 align="center"> <img src = "https://github.com/TechNinjass/midall-parent/blob/main/docs/Images/Backlogs-4.png" /></h1>
+<h1 align="center"> <img src = "https://github.com/TechNinjass/midall-parent/blob/main/docs/Images/documenta%C3%A7%C3%B5es-po.png" /></h1>
 
 <br>
   
