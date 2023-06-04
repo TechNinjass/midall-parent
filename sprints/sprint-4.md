@@ -33,7 +33,10 @@ The requirements (both customer and educational institution) covered for third s
   
 ## :heavy_check_mark: Deliveries
     
-
+### :heavy_check_mark: RF 07: Network Bandwidth Consumption Limitation
+     
+In this sprint, we implemented the option for the user to limit the network bandwidth when transferring the file, through the configuration screen with the requested parameters. In the front-end, the user will define an "x" bandwidth value, if in the transfer process the file exceeds this limit, the system will stop transferring the file.
+     
 ### :heavy_check_mark: RF 17: Dashboard Improvements (Graphics)
   
 📊 We made the logic of the "CASE WHEN" where: if the value of the column "Status" is equal to 'transferred', then the value of the new column "New_Status" will be 1. Otherwise, if the value of the column "Status" is different of 'transferred' (that is, any other value), the value of the new column "New_Status" will be 0.
