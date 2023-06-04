@@ -107,7 +107,7 @@ Automate the journey of downloading files, stored on a video platform, transferr
 
 - [x] [SPRINT 4](https://github.com/TechNinjass/midall-parent/blob/main/sprints/sprint-4.md) - 05/15/2023 to 06/04/2023
 
-- [ ] Solutions Fair - 06/13/2023 and 06/14/2023 at 7 pm
+- [x] Solutions Fair - 06/13/2023 and 06/14/2023 at 7 pm
 
 <br>
 
@@ -121,7 +121,7 @@ Automate the journey of downloading files, stored on a video platform, transferr
 
 🔖 SPRINT 3 ([Folder Link](https://github.com/TechNinjass/midall-parent/blob/main/sprints/sprint-3.md)) Done ☑️
 
-🔖 SPRINT 4 ([Folder Link](https://github.com/TechNinjass/midall-parent/blob/main/sprints/sprint-4.md)) In Progress 🕗
+🔖 SPRINT 4 ([Folder Link](https://github.com/TechNinjass/midall-parent/blob/main/sprints/sprint-4.md)) Done ☑️
 
 <br>
 
